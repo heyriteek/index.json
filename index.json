@@ -1,0 +1,43 @@
+{
+  "status": true,
+  "videos": [
+    {
+      "id": 1,
+      "title": "HTML Complete Course",
+      "description": "Learn HTML from Beginner to Advanced.",
+      "thumbnail": "https://raw.githubusercontent.com/heyriteek/video/main/thumb/html.jpg",
+      "video_url": "https://raw.githubusercontent.com/heyriteek/video/main/videos/html.mp4",
+      "ratio": "16:9",
+
+      "views": "124.8K",
+      "likes": "8.4K",
+      "rating": 4.9,
+      "students": "18.2K",
+      "duration": "02:35:20",
+      "upload_date": "14 Jul 2026",
+      "teacher": "Study Book",
+      "verified": true,
+      "featured": true,
+      "premium": false
+    },
+    {
+      "id": 2,
+      "title": "Java Shorts",
+      "description": "Java Quick Tips",
+      "thumbnail": "https://raw.githubusercontent.com/heyriteek/video/main/thumb/java.jpg",
+      "video_url": "https://raw.githubusercontent.com/heyriteek/video/main/videos/java.mp4",
+      "ratio": "9:16",
+
+      "views": "52.1K",
+      "likes": "3.2K",
+      "rating": 4.8,
+      "students": "7.9K",
+      "duration": "00:45",
+      "upload_date": "14 Jul 2026",
+      "teacher": "Study Book",
+      "verified": true,
+      "featured": false,
+      "premium": false
+    }
+  ]
+}
